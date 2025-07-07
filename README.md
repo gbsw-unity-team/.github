@@ -1,5 +1,10 @@
-# Unity Team Project - 2025 Summer Camp
+<div style="text-align: center;">
+  <img src ="./public/logo.png">
+</div>
 
+---
+
+# Unity Team Project - 2025 Summer Camp
 🎮 Unity로 배우는 2D/3D 게임 개발 프로젝트입니다.
 
 ## 📌 팀원
